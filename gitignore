@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MovieLens data (download it yourself, see README)
+movies.csv
+ratings.csv
+tags.csv
+links.csv
+ml-*/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
